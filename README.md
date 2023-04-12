@@ -1,0 +1,1 @@
+The application in multi-threaded mode using ForkJoinPool generates a map of a given site (list of links) and writes it to a file. Links to child pages are located in the file with one tab indentation relative to the parent.
